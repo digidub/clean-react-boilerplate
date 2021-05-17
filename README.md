@@ -4,5 +4,5 @@ A simple shell script for cleaning up some of the boilerplate files/lines provid
 
 ## Usage
 
-`./clean-react-boilerplate $PROJECT_ROOT_DIRECTORY`
+`./clean-react-boilerplate.sh $PROJECT_ROOT_DIRECTORY`
 
